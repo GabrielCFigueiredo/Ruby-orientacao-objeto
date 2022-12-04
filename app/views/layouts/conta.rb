@@ -14,6 +14,7 @@ p conta_gabriel.saldo
 
 puts "Pamela"
 p conta_pamela.saldo
+
 begin
     
     conta_gabriel.transferir(conta_pamela, 70)
